@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent url;
+ }
+ 
+ body {
+    background: #14131a;
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll;
+ }
