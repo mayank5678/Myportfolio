@@ -14,14 +14,16 @@
    padding: 0 1rem;
 }
 .projectTitle{
-    color: #74a19d;
+    /* color: #74a19d; */
+    color: #00BFAE;
 font-size: 3rem;
 font-weight: 600;
 padding-top: 3rem;
 margin-bottom: 1rem;
 }
 .projectDesc{
-    color: #4bc75a;
+    /* color: #4bc75a; */
+    color: #ff9eda;
 font-size: 1rem;
 font-weight: 400;
 max-width: 50rem;

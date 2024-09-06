@@ -128,3 +128,10 @@
     }
    
 }
+
+.separation{
+    background-color: rgb(63, 61, 61);
+    height: 7px;
+    position: relative;
+    z-index: 20;
+}

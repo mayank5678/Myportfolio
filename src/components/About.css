@@ -12,14 +12,16 @@ margin: 0 auto;
 
 }
 .aboutTitle{
-    color: #7aa4a1;
+    /* color: #7aa4a1; */
+    color: #00BFAE;
     font-size: 3rem;
     font-weight: 600;
     padding-top: 3rem;
     margin-bottom: 1.5rem;
 }
 .aboutDesc{
-    color: #9effd3;
+    /* color: #9effd3; */
+    color:#ff9eda;
     font-size: 1rem;
     font-weight: 400;
   max-width: 50rem;

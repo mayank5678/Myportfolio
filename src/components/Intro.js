@@ -10,7 +10,7 @@ const Intro=()=> {
     <section id="intro">
   <div className='introContent'>
    <span className='hello'>Hello,</span>
-    <span className='introText' > I'm <span className='introName'>Mayank</span>
+    <span className='introText' > I'm <span className='introName'>Anshul</span>
     <br/>
      Web Developer
      </span>

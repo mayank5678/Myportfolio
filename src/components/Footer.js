@@ -3,7 +3,7 @@ import './Footer.css'
 const Footer=()=> {
   return (
   <footer className='footer'>
-   Copyright &#169; 2024 Mayank Choudhary. All Right Reserved
+   Copyright &#169; 2024 Anshul Sharma. All Right Reserved
 
   </footer>
   )
